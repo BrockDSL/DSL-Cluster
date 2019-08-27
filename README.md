@@ -6,7 +6,7 @@ We currently have 38 computers (called nodes in the world of high perfance compu
 
 ![HPC Process][hpc]
 
-If you have a project that you think could benefit from a large amount of processing power or if you have any questions please come visit us at the Digital Scholarship Lab in the Rankin Family Pavilion or e-mail us at DSL.brocku.ca
+If you have a project that you think could benefit from a large amount of processing power or if you have any questions please come visit us at the Digital Scholarship Lab in the Rankin Family Pavilion or e-mail us at dsl@brocku.ca
 
 ![DSL Logo][dsllogo]
 
