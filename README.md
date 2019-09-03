@@ -2,7 +2,7 @@
 
 The Brock University Digital Scholarship Lab now has access to a distributed computing array!  This means that we have multiple computers connected together and can have them all work together on a singular task.
 
-We currently have 38 computers (called nodes in the world of high perfance computing) connected together to provide 152 cores worth of processing power!
+We currently have 38 computers (called nodes in the world of high perfance computing) connected together through a program called HPC Pack to provide 152 cores worth of processing power!
 
 ![HPC Process][hpc]
 
